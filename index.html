@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="author" content="Rahmat adha">
+  <meta name="description" content="Cek Khodam Online By Rahmat adha">
+  <meta name="theme-color" content=" #ffb000">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cek Khodam</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+</head>
+<body>
+  <div class="container">
+    <h1>Cek Khodam</h1>
+    <p>Masukkan nama untuk mengetahui khodam</p>
+    <input type="text" id="nameInput" placeholder="Nama kamu">
+    <div class="buttons">
+      <button onclick="cekKhodam()">Cek Khodam</button>
+      <button onclick="cekLagi()">Cek Lagi</button>
+    </div>
+    <div id="result">
+      <h2 id="khodam"></h2>
+      <p id="description"></p>
+    </div>
+    <footer>
+      <p>© 2024 Rahmat adha</p>
+    </footer>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
