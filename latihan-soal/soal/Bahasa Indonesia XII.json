@@ -1,0 +1,556 @@
+{
+   "deskripsi": null,
+   "sumber_soal": null,
+   "banksoal": [
+      {
+         "pertanyaan": "Kata-kata penutup yang berisi simpulan ataupun amanat tentang isi keseluruhan diatog disebut .....",
+         "pilihan": {
+            "A": "monolog",
+            "B": "prolog",
+            "C": "epilog",
+            "D": "dialog",
+            "E": "alur"
+         },
+         "jawaban": "C. epilog"
+      },
+      {
+         "pertanyaan": "Bacalah penggalan teks editorial berikut!\nNamun, satu hal yang sama-sama menjadi perhatian adalah memajukan mutu pendidikan secara nasional.\n\nKata kerja rasional yang terdapat pada kalimat di atas .....",
+         "pilihan": {
+            "A": "namun",
+            "B": "menjadi",
+            "C": "memajukan",
+            "D": "yang",
+            "E": "secara"
+         },
+         "jawaban": "B. menjadi"
+      },
+      {
+         "pertanyaan": "Dua solusi yang ditawarkan dalam editorial ini adalah pemanfaatan kemajuan teknologi melalui program palapa ring dan belajar dengan pengalaman yang ada. Sinonim kata solusi adalah .....",
+         "pilihan": {
+            "A": "akibat",
+            "B": "masalah",
+            "C": "jalan keluar",
+            "D": "pencapaian",
+            "E": "kesimpulan"
+         },
+         "jawaban": "C. jalan keluar"
+      },
+      {
+         "pertanyaan": "Sebutkan tajuk rencana tidak lazim terdapat pada .....",
+         "pilihan": {
+            "A": "Buletin",
+            "B": "Surat kabar",
+            "C": "Makalah",
+            "D": "Majalah",
+            "E": "Tabloid"
+         },
+         "jawaban": "C. Makalah"
+      },
+      {
+         "pertanyaan": "Tulisan yang berupa tanggapan media terhadap suatu peristiwa disebut .....",
+         "pilihan": {
+            "A": "rubrik",
+            "B": "tajuk rencana",
+            "C": "kolom",
+            "D": "esai",
+            "E": "jurnal"
+         },
+         "jawaban": "B. tajuk rencana"
+      },
+      {
+         "pertanyaan": "Sebuah tajuk rencana dapat berupa penguraian fakta dan opini yang disusun secara berikut ini, kecuali .....",
+         "pilihan": {
+            "A": "ringkas",
+            "B": "sistematis",
+            "C": "logis",
+            "D": "menarik",
+            "E": "komersial"
+         },
+         "jawaban": "E. komersial"
+      },
+      {
+         "pertanyaan": "Berikut ini merupakan fungsi penulisan editorial, kecuali .....",
+         "pilihan": {
+            "A": "Meperjelas berita",
+            "B": "Membentuk opini massa",
+            "C": "Menampilkan ramalan",
+            "D": "Menambah latar belakang",
+            "E": "Memberikan saran"
+         },
+         "jawaban": "C. Menampilkan ramalan"
+      },
+      {
+         "pertanyaan": "Editorial atau tajuk rencana ditulis berdasarkan sudut pandang .....",
+         "pilihan": {
+            "A": "Pembaca",
+            "B": "Pemerintah",
+            "C": "Masyarakat",
+            "D": "Golongan tertentu",
+            "E": "Redaksi surat kabar atau majalah"
+         },
+         "jawaban": "E. Redaksi surat kabar atau majalah"
+      },
+      {
+         "pertanyaan": "Tajuk rencana membahas masalah atau informasi yang .....",
+         "pilihan": {
+            "A": "Berkualitas dan istimewa",
+            "B": "Kurang berbobot",
+            "C": "Penting dan akurat",
+            "D": "Berbobot dan langka",
+            "E": "Sedang hangat dan berkembang"
+         },
+         "jawaban": "A. Berkualitas dan istimewa"
+      },
+      {
+         "pertanyaan": "Cermati kalimat di bawah ini!\nSurat lamaran pekerjaan tidak memiliki format yang resmi. [ ..... ], surat lamaran pekerjaan memiliki aturan-aturan yang harus diperhatikan dalam penulisannya.\n\nKonjungsi (kata sambung) yang tepat untuk mengisi bagian yang rumpang (kosong) adalah .....",
+         "pilihan": {
+            "A": "meskipun demikian",
+            "B": "selanjutnya",
+            "C": "akan tetapi",
+            "D": "dengan demikian",
+            "E": "oleh sebab itu"
+         },
+         "jawaban": "C. akan tetapi"
+      },
+      {
+         "pertanyaan": "Cermati pengumuman berikut dengan teliti!\n\nPT PELITA JAYA\nJalan MT Haryono 10 Jakarta\nNo. 120-PK-08-2013\n28 Oktober 2013\n\nPENGUMUMAN\nDibutuhkan tenaga administrasi minimal lulus SMK untuk ditempatkan di kantor cabang Depok dengan persyaratan .....\n\nKalimat pembuka surat lamaran kerja sesuai dengan pengumuman tersebut yang tepat adalah .....",
+         "pilihan": {
+            "A": "Sehubungan dengan pengumuman Saudara pada tanggal 28 Oktober 2013 .....",
+            "B": "Bersamaan ini saya mengajukan lamaran kerja berdasarkan pengumuman .....",
+            "C": "Mengingat surat Saudara nomor 120/PK/08/2013 pada 28 Oktober 2013 .....",
+            "D": "Berdasarkan pengumuman nomor 120/PK/08/2013 pada 28 Oktober 2013 .....",
+            "E": "Saya memberanikan diri mengajukan permohonan kerja kepada Bapak"
+         },
+         "jawaban": "D. Berdasarkan pengumuman nomor 120/PK/08/2013 pada 28 Oktober 2013 ....."
+      },
+      {
+         "pertanyaan": "Penulisan kata menggunakan huruf kapital yang benar berikut ini adalah .....",
+         "pilihan": {
+            "A": "Pada hari senin akan diadakan upacara bendera.",
+            "B": "Pada hari senin akan diadakan upacara bendera.",
+            "C": "Pada hari Senin akan diadakan upacara bendera.",
+            "D": "Pada hari Senin akan diadakan upacara Bendera.",
+            "E": "pada hari senin akan di adakan upacara bendera."
+         },
+         "jawaban": "C. Pada hari Senin akan diadakan upacara bendera."
+      },
+      {
+         "pertanyaan": "Penulisan judul prosa berikut ini yang benar adalah .....",
+         "pilihan": {
+            "A": "Si Buta dari Gua Hantu",
+            "B": "Si Buta Dari Gua Hantu",
+            "C": "Si Buta dari Gua Hantu.",
+            "D": "Si buta dari gua hantu.",
+            "E": "Si buta dari gua hantu"
+         },
+         "jawaban": "A. Si Buta dari Gua Hantu"
+      },
+      {
+         "pertanyaan": "Penulisan kata bercetak miring dalam kalimat berikut sesuai dengan EYD, kecuali .....",
+         "pilihan": {
+            "A": "Para pengusaha properti pada saat krisis ekonomi ini dihadapkan pada sejumlah problema yang tidak mudah diatasi.",
+            "B": "Subyektivitas pada suatu penilaian yang tinggi akan menimbulkan penilaian yang tidak obyektif.",
+            "C": "Di antara persyaratan keilmuan suatu penelitian ilmiah adalah kerja analisis.",
+            "D": "Pada zaman yang penuh dengan ketidakpastian ini perencanaan suatu kegiatan tidak dapat dirumuskan dengan tegas.",
+            "E": "Varietas padi yang baru saja ditemukan sangat diminati masyarakat."
+         },
+         "jawaban": "A. Para pengusaha properti pada saat krisis ekonomi ini dihadapkan pada sejumlah problema yang tidak mudah diatasi."
+      },
+      {
+         "pertanyaan": "Bacalah teks berikut ini dengan cermat!\nPertanian presisi tidak asal bertani. Ini disebabkan perbedaan setiap lahan, petani masa depan menggunakan satelit images drone dan alat geografi lainnya. Langkah yang dilakukan ialah observasi jenis tanaman yang cocok ditanam pada lahan pertanian. Kemudian akan dibangun sistem sensor di lahan pertanian untuk mengukur kelembaban dan suhu dari tanah dan udara sekitar lahan. Dalam hal ini, petani membutuhkan informasi yang akurat mengenai kondisi tanah, pemberian air, pupuk, dan sebagainya.\n\nIde pokok paragraf tersebut adalah .....",
+         "pilihan": {
+            "A": "pertanian presisi",
+            "B": "satelit images drone",
+            "C": "petani masa depan",
+            "D": "petani masa depan",
+            "E": "sistem sensor lahan pertanian"
+         },
+         "jawaban": "A. pertanian presisi"
+      },
+      {
+         "pertanyaan": "Cermati kalimat berikut ini!\nSalah satu sarat untuk berutang kepada bank adalah memberikan jaminan, yakni jaminan berupa asyet seperti: sertipikat rumah, bukti pemesanan barang, atau simpanan yang tentu nilainya lebih besar ketimbang jumlah utang kepada bank.\n\nPerbaikan kesalahan penggunaan kata dalam kalimat tersebut yang tepat adalah .....",
+         "pilihan": {
+            "A": "syarat, asyet, sertifikat",
+            "B": "sarat, aset, sertifikat",
+            "C": "syarat, aset, sertifikat",
+            "D": "syarat, aset, sertipikat",
+            "E": "sarat, aset, sertifikate"
+         },
+         "jawaban": "C. syarat, aset, sertifikat"
+      },
+      {
+         "pertanyaan": "Ia pun memandang Mariamin, seraya berkata, \u201cSemua hal ini kita serahkan kepada Tuhan, sebab Ia-lah yang tahu mana yang baik akan hamba-Nya.\u201d\n\nEtika yang terkandung dalam novel di atas adalah .....",
+         "pilihan": {
+            "A": "kita harus beriman kepada Tuhan",
+            "B": "kita harus bersyukur kepada Tuhan",
+            "C": "kita harus bersua kepada Tuhan",
+            "D": "kita harus berserah diri kepada Tuhan",
+            "E": "kita harus menerima cobaan dari Tuhan"
+         },
+         "jawaban": "D. kita harus berserah diri kepada Tuhan"
+      },
+      {
+         "pertanyaan": "Cermati kutipan novel berikut!\nRumah idaman di kampung melayu yang tidak dapat dinamakan besat, sudah disambung dengan pelampang ke muka, lalu dihiasi dengan daun-daun beringin dan bunga-bunga teratai. Bunga kertas yang merumbai-umbai pun tidak pula ketinggalan, sebagai lazim diperbuat di kampung, tiap-tiap ada perhelatan.\n\nUnsur Intrinsik yang dominan pada penggalan novel di atas adalah .....",
+         "pilihan": {
+            "A": "Alur cerita",
+            "B": "Tema",
+            "C": "Perwatakan",
+            "D": "Sudut Pandang",
+            "E": "Latar"
+         },
+         "jawaban": "E. Latar"
+      },
+      {
+         "pertanyaan": "Nama lain dari alur mundur adalah .....",
+         "pilihan": {
+            "A": "progresif",
+            "B": "maju",
+            "C": "gabungan",
+            "D": "flash back",
+            "E": "campuran"
+         },
+         "jawaban": "D. flash back"
+      },
+      {
+         "pertanyaan": "Karangan faktual secara lengkap dengan panjang tertentu yang dibuat untuk dipublikasikan disebut .....",
+         "pilihan": {
+            "A": "teks eksposisi",
+            "B": "artikel",
+            "C": "kritik",
+            "D": "esai",
+            "E": "teks opini"
+         },
+         "jawaban": "B. artikel"
+      },
+      {
+         "pertanyaan": "Artikel dipublikasikan melalui .....",
+         "pilihan": {
+            "A": "koran",
+            "B": "majalah",
+            "C": "buletin",
+            "D": "jurnal online",
+            "E": "semua benar"
+         },
+         "jawaban": "E. semua benar"
+      },
+      {
+         "pertanyaan": "Yang bukan merupakan ciri-ciri artikel yaitu .....",
+         "pilihan": {
+            "A": "Pada umumnya artikel dibuat secara ringkas, padat, jelas, dan tuntas.",
+            "B": "Isi yang disampaikan dalam sebuah artikel didasari oleh fiksi atau mitos yang kebenarannya masih diragukan",
+            "C": "Artikel bersifat informatif dan faktual",
+            "D": "Sebuah artikel dapat mengandung opini dan analisis",
+            "E": "Penulisan artikel menggunakan bahasa baku atau resmi"
+         },
+         "jawaban": "B. Isi yang disampaikan dalam sebuah artikel didasari oleh fiksi atau mitos yang kebenarannya masih diragukan"
+      },
+      {
+         "pertanyaan": "Jenis artikel yang isinya menjelaskan atau memberikan informasi mengenai suatu topik agar menambah pengetahuan pembacanya dan dilengkapi dengan gambar, grafik, dan informasi pendukung lainnya adalah pengertian dari artikel berjenis .....",
+         "pilihan": {
+            "A": "narasi",
+            "B": "deskripsi",
+            "C": "eksposisi",
+            "D": "argumentasi",
+            "E": "persuasi"
+         },
+         "jawaban": "C. eksposisi"
+      },
+      {
+         "pertanyaan": "Konjungsi ini menunjukkan urutan dari sebuah peristiwa, merupakan pengertian dari .....",
+         "pilihan": {
+            "A": "konjungsi untuk menata argumentasi",
+            "B": "konjungsi yang menyatakan hubungan sebab akibat",
+            "C": "konjungsi yang menyatakan harapan",
+            "D": "konjungsi yang menyatakan kesangsian",
+            "E": "konjungsi yang berkaitan dengan waktu"
+         },
+         "jawaban": "E. konjungsi yang berkaitan dengan waktu"
+      },
+      {
+         "pertanyaan": "Kalimat berikut yang merupakan fakta adalah .....",
+         "pilihan": {
+            "A": "Tingginya air yang menggenangi ruas jalan di Wonokromo memang tak seberapa.",
+            "B": "Berdasarkan rilis BMG kelas I Juanda, kondisi berawan hingga hujan masih akan turun mewarnai langit Surabaya.",
+            "C": "Terhambatnya penurunan tinggi air di ruas jalan Tenggelis kemungkinan disebabkan oleh tersumbatnya air.",
+            "D": "Aksi blokir di jalan tol Pondok Aren Jakarta kembali terjadi.",
+            "E": "Saya berharap pembangunan tol Semarang Solo bisa dipercepat."
+         },
+         "jawaban": "D. Aksi blokir di jalan tol Pondok Aren Jakarta kembali terjadi."
+      },
+      {
+         "pertanyaan": "Cermati paragraf berikut!\nAkulah Jibril, yang angin adalah aku, yang embun adalah aku, yang asap adalah aku, yang gemersik adalah aku, yang menghantarkan panas dan dingin. Aku mengirimkan kesejukan, pikiran segar yang mengajak giat belajar. Aku adalah yang menyodorkan keheranan dan sekaligus jawaban. Aku di kebun rimbun, aku di padang pasir, aku di laut, aku di gunung, aku di udara, kukirimkan layang-layangku kepadamu, kepada kalian.\n(Mereka Toh Tidak Mungkin Menjaring Malaikat: Danarto)\n\nKalimat kritik yang sesuai dengan isi kutipan tersebut adalah .....",
+         "pilihan": {
+            "A": "Danarto dikenal sebagai penulis cerpen yang religius, tercermin dalam tokoh cerpen yang telah ditulisnya.",
+            "B": "Menuntut pembaca harus lebih cermat untuk memahami isi cerita karena banyak menggunakan kata-kata lambang.",
+            "C": "Penggunaan kalimat-kalimat yang unik membuat cerpen ini diminati pembacanya.",
+            "D": "Cerpen Danarto pada umumnya beraliran religius sesuai dengan latar belakang pendidikan beliau.",
+            "E": "Penggunaan kalimat yang sederhana memudahkan pembaca untuk memahami isi cerita."
+         },
+         "jawaban": "B. Menuntut pembaca harus lebih cermat untuk memahami isi cerita karena banyak menggunakan kata-kata lambang."
+      },
+      {
+         "pertanyaan": "Naskah drama disusun dalam bentuk .....",
+         "pilihan": {
+            "A": "Dialog",
+            "B": "Prolog",
+            "C": "Epilog",
+            "D": "Monolog",
+            "E": "Prosa"
+         },
+         "jawaban": "A. Dialog"
+      },
+      {
+         "pertanyaan": "Pesan yang ingin disampaikan penulis kepada para penonton disebut .....",
+         "pilihan": {
+            "A": "Dialog",
+            "B": "Tokoh",
+            "C": "Isi Drama",
+            "D": "Amanat",
+            "E": "semua benar"
+         },
+         "jawaban": "D. Amanat"
+      },
+      {
+         "pertanyaan": "Kalimat dalam teks drama yang ditulis dalam kurung, tidak didialogkan, melainkan diaktingkan disebut .....",
+         "pilihan": {
+            "A": "prolog",
+            "B": "monolog",
+            "C": "dialog",
+            "D": "kalimat lakuan / kramagung",
+            "E": "semua benar"
+         },
+         "jawaban": "D. kalimat lakuan / kramagung"
+      },
+      {
+         "pertanyaan": "Perhatikan kutipan drama berikut!\nCopet .....copet. (terdengar suara teriakan)\nPolisi : He ..... berhenti! Door (terdengar suara letusan)\nPencopet : Ampun Pak.\nPenumpang : Periksa kantongnya. Hajar saja.\nPencopet : Ampun pak saya mencopet karena anak saya sedang sakit.\nPolisi : Sekarang ikut saya ke kantor Polisi.\n\nKonflik pada kutipan drama tersebut adalah .....",
+         "pilihan": {
+            "A": "seorang pencopet diperiksa polisi",
+            "B": "seseorang mencopet karena anaknya sakit",
+            "C": "seorang pencopet yang tertembak polisi",
+            "D": "seorang pencopet yang dibawa ke pos polisi",
+            "E": "seorang mencopet karena kebutuhan"
+         },
+         "jawaban": "B. seseorang mencopet karena anaknya sakit"
+      },
+      {
+         "pertanyaan": "Merupakan teks yang mengangkat cerita tentang orang penting berdasarkan kejadian nyata dan dikemas menjadi lucu dan mengesankan yang bertujuan untuk menyampaikan kritik. Berdasarkan pernyataan di atas merupakan pengertian teks ?",
+         "pilihan": {
+            "A": "Cerita lucu",
+            "B": "Humor",
+            "C": "Narasi",
+            "D": "Komedi",
+            "E": "Anekdot"
+         },
+         "jawaban": "E. Anekdot"
+      },
+      {
+         "pertanyaan": "Berikut merupakan struktur Anekdot ialah ?",
+         "pilihan": {
+            "A": "Abstraksi, orientasi, sebab akibat, koda",
+            "B": "Pernyataan umum, Persetujuan, krisis, reaksi",
+            "C": "Tesis, Argumentasi, Penegasan ulang pendapat, koda",
+            "D": "Abstraksi, orientasi, krisis, reaksi, koda",
+            "E": "Abstraksi, orientasi, krisis, simpulan"
+         },
+         "jawaban": "D. Abstraksi, orientasi, krisis, reaksi, koda"
+      },
+      {
+         "pertanyaan": "Berikut urutan struktur teks prosedur yang tepat adalah .....",
+         "pilihan": {
+            "A": "tujuan, langkah 1, langkah 2, langkah 3, langkah 4, dan penutup.",
+            "B": "pengantar, langkah 1, langkah 2, dan tujuan.",
+            "C": "langkah 1, tujuan, langkah 2, dan simpulan.",
+            "D": "langkah 1, langkah 2, dan tujuan",
+            "E": "abstrak, tujuan 1, langkah 1, dan langkah 2."
+         },
+         "jawaban": "A. tujuan, langkah 1, langkah 2, langkah 3, langkah 4, dan penutup."
+      },
+      {
+         "pertanyaan": "Berikut yang termasuk ciri-ciri teks prosedur adalah .....",
+         "pilihan": {
+            "A": "Judul teks, urut, koheren, informatif, terperinci, objektif, universal, aktual, akurat, dan logis",
+            "B": "Judul teks, koheren, informatif, terperinci, objektif, universal, logis, dan akurat.",
+            "C": "Judul teks, urut, informatif, terperinci, universal, subjektif, dan fiktif.",
+            "D": "Judul teks, urut, koheren, informatif, objektif, dan universal.",
+            "E": "Judul teks, urut, koheren, informatif, terperinci, objektif, dan universal."
+         },
+         "jawaban": "A. Judul teks, urut, koheren, informatif, terperinci, objektif, universal, aktual, akurat, dan logis"
+      },
+      {
+         "pertanyaan": "Ambillah tanah kering atau debu, [ .....] tempelkan telapak tangan pada debu tersebut dan usapkan kemuka.\n\nKonjungsi yang tepat untuk melengkapi bagian rumpang teks prosedur tersebut adalah .....",
+         "pilihan": {
+            "A": "kemudian",
+            "B": "setelah",
+            "C": "sebelum",
+            "D": "dan",
+            "E": "sesudah"
+         },
+         "jawaban": "A. kemudian"
+      },
+      {
+         "pertanyaan": "Kalimat imperatif adalah .....",
+         "pilihan": {
+            "A": "Kalimat yang berisi pernyataan",
+            "B": "Kalimat yang mengandung perintah",
+            "C": "Kalimat yang berisi pertanyaan",
+            "D": "Kalimat untuk meminta/melarang seseorang",
+            "E": "Kalimat untuk memberikan informasi"
+         },
+         "jawaban": "B. Kalimat yang mengandung perintah"
+      },
+      {
+         "pertanyaan": "Perhatikan kerangka teks eksplanasi berikut!\n1) Proses terjadinya gempa bumi\n2) Penyebab terjadinya gempa bumi\n3) Definisi gempa bumi\n4) Akibat gempa bumi\n5) Simpulan gempa bumi\n\nJika dikembangkan menjadi sebuah teks eksplanasi, urutan kerangka yang tepat adalah .....",
+         "pilihan": {
+            "A": "(3), (1), (2), (4), (5)",
+            "B": "(1), (2), (3), (4), (5)",
+            "C": "(3), (4), (1), (5), (2)",
+            "D": "(2), (4), (5), (1), (3)",
+            "E": "(2), (1), (5), (4), (3)"
+         },
+         "jawaban": "A. (3), (1), (2), (4), (5)"
+      },
+      {
+         "pertanyaan": "Anggaran biaya dalam proposal berisi .....",
+         "pilihan": {
+            "A": "Penjadwalan kegiatan",
+            "B": "Informasi Usaha",
+            "C": "Perkiraan dana/ tarif",
+            "D": "Biodata perusahaan",
+            "E": "Latar belakang"
+         },
+         "jawaban": "C. Perkiraan dana/ tarif"
+      },
+      {
+         "pertanyaan": "Unsur-unsur pembuatan proposal, kecuali .....",
+         "pilihan": {
+            "A": "dasar pemikiran",
+            "B": "maksud dan tujuan",
+            "C": "peserta",
+            "D": "penutup",
+            "E": "bahasa"
+         },
+         "jawaban": "E. bahasa"
+      },
+      {
+         "pertanyaan": "Tema karya tulis: Perlindungan terhadap perokok pasif.\nLatar Belakang yang sesuai dengan tema tersebut adalah .....",
+         "pilihan": {
+            "A": "Banyak perokok yang merasa disalahkan jika merokok di dekat orang",
+            "B": "Merokok merupakan kebutuhan seseorang",
+            "C": "Yang bukan perokok sering sakit dan marah-marah karena asap rokok",
+            "D": "Pencemaran udara banyak yang disebabkan oleh perokok disembarang tempat",
+            "E": "Banyak perokok tidak menyadari dampak asep rokok terhadap orang di sekitarnya"
+         },
+         "jawaban": "E. Banyak perokok tidak menyadari dampak asep rokok terhadap orang di sekitarnya"
+      },
+      {
+         "pertanyaan": "Hal-hal yang tidak perlu ditulis dalam penulisan daftar pustaka adalah .....",
+         "pilihan": {
+            "A": "nama pengarang",
+            "B": "halaman buku",
+            "C": "judul buku",
+            "D": "nama penerbit",
+            "E": "tahun terbit"
+         },
+         "jawaban": "E. tahun terbit"
+      },
+      {
+         "pertanyaan": "Perhatikan unsur karya tulis berikut!\n1) Latar belakang\n2) pendahuluan\n3) kesimpulan\n4) pembahasan\n5) penutup\n\nSistematika yang tepat dari unsur-unsur karya tulis di atas adalah .....",
+         "pilihan": {
+            "A": "1, 2, 3, 4, 5",
+            "B": "2, 3, 4, 5, 1",
+            "C": "3, 4, 5, 1, 2",
+            "D": "1, 3, 5, 4, 2",
+            "E": "2, 1, 4, 5, 3"
+         },
+         "jawaban": "E. 2, 1, 4, 5, 3"
+      },
+      {
+         "pertanyaan": "Suatu tindakan yang bertujuan memahami seni agar mendapatkan kenikmatan estetik disebut .....",
+         "pilihan": {
+            "A": "Apresiasi",
+            "B": "Kritik Seni",
+            "C": "Bahasan seni",
+            "D": "Berkarya seni",
+            "E": "Ulasan karya seni"
+         },
+         "jawaban": "A. Apresiasi"
+      },
+      {
+         "pertanyaan": "Yang bukan merupakan unsur-unsur dalam resensi novel adalah .....",
+         "pilihan": {
+            "A": "Sinopsis",
+            "B": "Kepengarangan",
+            "C": "Kelebihan Novel",
+            "D": "Kelemahan Novel",
+            "E": "Nama penjual Novel"
+         },
+         "jawaban": "E. Nama penjual Novel"
+      },
+      {
+         "pertanyaan": "Novel Tuilet bertema humor. Novel ini membawa pembacanya untuk tidak hanya menikmati kisahnya. Didalamnya akan ditemukan pula kisah-kisah lucu seputar tokohnya. Di dalam novel ini dikisahkan seorang anak SMA. Ia tidak terlalu terkenal di kelasnya. Ia bernama Edi Wardiman. Pada sebuah penggalan resensi Novel di atas termasuk dalam .....",
+         "pilihan": {
+            "A": "Pendahuluan",
+            "B": "Isi resensi",
+            "C": "Judul Resensi",
+            "D": "Identitas buku",
+            "E": "Identitas"
+         },
+         "jawaban": "A. Pendahuluan"
+      },
+      {
+         "pertanyaan": "Berikut ini termasuk unsur yang harus ada dalam pementasan drama, kecuali .....",
+         "pilihan": {
+            "A": "panggung",
+            "B": "pemain",
+            "C": "penonton",
+            "D": "naskah",
+            "E": "sutradara"
+         },
+         "jawaban": "C. penonton"
+      },
+      {
+         "pertanyaan": "Berikut ini termasuk unsur yang harus ada dalam pementasan drama, kecuali .....",
+         "pilihan": {
+            "A": "panggung",
+            "B": "pemain",
+            "C": "penonton",
+            "D": "naskah",
+            "E": "sutradara"
+         },
+         "jawaban": "C. penonton"
+      },
+      {
+         "pertanyaan": "Setting sebuah drama mengandung unsur .....",
+         "pilihan": {
+            "A": "tempat terjadinya peristiwa",
+            "B": "waktu peristiwa bergulir",
+            "C": "suasana cerita",
+            "D": "tempat dan waktu cerita",
+            "E": "tempat, waktu, dan suasana cerita"
+         },
+         "jawaban": "E. tempat, waktu, dan suasana cerita"
+      },
+      {
+         "pertanyaan": "Aspek yang tidak harus diperhatikan ketika memerankan tokoh .....",
+         "pilihan": {
+            "A": "Lafal",
+            "B": "Intonasi",
+            "C": "Tekanan",
+            "D": "Jeda",
+            "E": "Gestur"
+         },
+         "jawaban": "C. Tekanan"
+      },
+      {
+         "pertanyaan": "Struktur teks drama yg benar adalah .....",
+         "pilihan": {
+            "A": "Prolog, dialog (orientasi, kompilasi, resolusi), epilog",
+            "B": "Epilog, dialog (orientasi, kompilasi, resolusi), prolog",
+            "C": "Dialog (orientasi, kompilasi, resolusi), epilog, prolog",
+            "D": "Prolog, epilog, dialog (orientasi, kompilasi, resolusi)",
+            "E": "Prolog, dialog (resolusi, orientasi, kompilasi), epilog"
+         },
+         "jawaban": "A. Prolog, dialog (orientasi, kompilasi, resolusi), epilog"
+      }
+   ]
+}

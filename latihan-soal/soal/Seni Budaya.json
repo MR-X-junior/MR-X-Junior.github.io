@@ -1,0 +1,556 @@
+{
+   "deskripsi": null,
+   "sumber_soal": null,
+   "banksoal": [
+      {
+         "pertanyaan": "Apa yang dimaksud dengan teknik melukis cat minyak?",
+         "pilihan": {
+            "A": "Teknik melukis yang menggunakan cat berbasis minyak sebagai media.",
+            "B": "Teknik melukis yang tidak memerlukan media apa pun.",
+            "C": "Teknik melukis yang hanya menggunakan pensil.",
+            "D": "Teknik melukis yang menggunakan cat air sebagai media.",
+            "E": "Teknik melukis yang hanya menggunakan arang dan kapur."
+         },
+         "jawaban": "a. Teknik melukis yang menggunakan cat berbasis minyak sebagai media."
+      },
+      {
+         "pertanyaan": "Sebutkan salah satu ciri khas pameran seni kontemporer!",
+         "pilihan": {
+            "A": "Penggunaan satu jenis media.",
+            "B": "Tidak ada interaksi dengan pengunjung.",
+            "C": "Pameran hanya untuk seniman lokal.",
+            "D": "Penggunaan media yang beragam.",
+            "E": "Hanya menampilkan lukisan klasik."
+         },
+         "jawaban": "d. Penggunaan media yang beragam."
+      },
+      {
+         "pertanyaan": "Siapa seniman terkenal Indonesia yang dikenal dengan karya patung modernnya?",
+         "pilihan": {
+            "A": "Sudirman",
+            "B": "Affandi",
+            "C": "Hendra Gunawan",
+            "D": "Raden Saleh",
+            "E": "Nyoman Nuarta"
+         },
+         "jawaban": "e. Nyoman Nuarta"
+      },
+      {
+         "pertanyaan": "Apa yang menjadi fokus utama dalam karya seni instalasi?",
+         "pilihan": {
+            "A": "Fokus utama adalah penggunaan warna yang cerah.",
+            "B": "Fokus utama dalam karya seni instalasi adalah pengalaman interaktif dan konteks ruang.",
+            "C": "Fokus utama adalah penggambaran objek statis.",
+            "D": "Fokus utama adalah teknik melukis yang rumit.",
+            "E": "Fokus utama adalah penggunaan bahan logam dalam karya."
+         },
+         "jawaban": "b. Fokus utama dalam karya seni instalasi adalah pengalaman interaktif dan konteks ruang."
+      },
+      {
+         "pertanyaan": "Jelaskan perbedaan antara seni grafis digital dan seni grafis tradisional!",
+         "pilihan": {
+            "A": "Seni grafis digital tidak dapat dicetak.",
+            "B": "Seni grafis digital lebih mahal daripada seni grafis tradisional.",
+            "C": "Seni grafis tradisional hanya menggunakan cat minyak.",
+            "D": "Seni grafis digital menggunakan teknologi dan perangkat lunak, sedangkan seni grafis tradisional menggunakan media fisik.",
+            "E": "Seni grafis digital tidak memiliki unsur kreativitas dibandingkan seni grafis tradisional."
+         },
+         "jawaban": "d. Seni grafis digital menggunakan teknologi dan perangkat lunak, sedangkan seni grafis tradisional menggunakan media fisik. "
+      },
+      {
+         "pertanyaan": "Sebutkan salah satu periode penting dalam sejarah seni rupa Indonesia!",
+         "pilihan": {
+            "A": "Periode Seni Rupa Modern",
+            "B": "Periode Seni Rupa Prasejarah",
+            "C": "Periode Seni Rupa Klasik",
+            "D": "Periode Seni Rupa Kontemporer",
+            "E": "Periode Seni Rupa Barok"
+         },
+         "jawaban": "a. Periode Seni Rupa Modern"
+      },
+      {
+         "pertanyaan": "Apa saja bahan yang umum digunakan dalam teknik melukis cat minyak?",
+         "pilihan": {
+            "A": "Kertas gambar",
+            "B": "Cat air",
+            "C": "Cat minyak, kanvas, kuas, pelarut (terpentin, minyak biji rami)",
+            "D": "Pensil warna",
+            "E": "Krayon dan pastel"
+         },
+         "jawaban": "c. Cat minyak, kanvas, kuas, pelarut (terpentin, minyak biji rami)"
+      },
+      {
+         "pertanyaan": "Sebutkan dua contoh karya seni kontemporer yang terkenal di Indonesia!",
+         "pilihan": {
+            "A": "Siti Nurhaliza dan Rina Nose",
+            "B": "Rudi Sudarsono dan Dwi Putra",
+            "C": "Agus Suwignyo dan Eko Nugroho",
+            "D": "FX Harsono dan Joko Avianto",
+            "E": "Affandi dan Basuki Abdullah"
+         },
+         "jawaban": "d. FX Harsono dan Joko Avianto"
+      },
+      {
+         "pertanyaan": "Apa yang dimaksud dengan seni patung modern dan bagaimana perkembangannya?",
+         "pilihan": {
+            "A": "Seni patung modern adalah karya seni tiga dimensi yang mencerminkan ide-ide baru dan teknik sejak akhir abad ke-19, berkembang melalui berbagai gerakan dan penggunaan bahan inovatif.",
+            "B": "Seni patung modern adalah seni dua dimensi yang muncul pada abad ke-18",
+            "C": "Seni patung modern tidak memiliki hubungan dengan gerakan seni lainnya.",
+            "D": "Seni patung modern hanya menggunakan bahan tradisional seperti kayu dan batu.",
+            "E": "Seni patung modern tidak memerlukan bentuk fisik dan hanya berbasis digital."
+         },
+         "jawaban": "a. Seni patung modern adalah karya seni tiga dimensi yang mencerminkan ide-ide baru dan teknik sejak akhir abad ke-19, berkembang melalui berbagai gerakan dan penggunaan bahan inovatif."
+      },
+      {
+         "pertanyaan": "Jelaskan bagaimana teknologi mempengaruhi seni grafis digital!",
+         "pilihan": {
+            "A": "Teknologi menghambat kreativitas seniman.",
+            "B": "Teknologi memungkinkan inovasi, efisiensi, dan distribusi karya seni grafis digital.",
+            "C": "Teknologi hanya digunakan untuk mencetak karya seni.",
+            "D": "Seni grafis digital tidak dipengaruhi oleh teknologi.",
+            "E": "Teknologi hanya berdampak pada seni tradisional, bukan seni grafis digital."
+         },
+         "jawaban": "b. Teknologi memungkinkan inovasi, efisiensi, dan distribusi karya seni grafis digital."
+      },
+      {
+         "pertanyaan": "Seni rupa yang hanya memiliki panjang dan lebar disebut seni rupa...",
+         "pilihan": {
+            "A": "Tiga dimensi",
+            "B": "Dua dimensi",
+            "C": "Modern",
+            "D": "Klasik",
+            "E": "Kontemporer"
+         },
+         "jawaban": "b. Dua dimensi"
+      },
+      {
+         "pertanyaan": "Contoh karya seni rupa dua dimensi adalah...",
+         "pilihan": {
+            "A": "Patung",
+            "B": "Lukisan",
+            "C": "Vas bunga",
+            "D": "Kerajinan gerabah",
+            "E": "Miniatur rumah"
+         },
+         "jawaban": "b. Lukisan"
+      },
+      {
+         "pertanyaan": "Salah satu unsur utama dalam seni rupa yang digunakan untuk membuat bentuk adalah..",
+         "pilihan": {
+            "A": "Nada",
+            "B": "Warna",
+            "C": "Garis",
+            "D": "Irama",
+            "E": "Dinamika"
+         },
+         "jawaban": "c. Garis"
+      },
+      {
+         "pertanyaan": "Teknik menggambar yang menggunakan garis-garis sejajar atau menyilang untuk memberikan kesan bayangan disebut...",
+         "pilihan": {
+            "A": "Dussel",
+            "B": "Aquarel",
+            "C": "Blok",
+            "D": "Siluet",
+            "E": "Arsir"
+         },
+         "jawaban": "e. Arsir"
+      },
+      {
+         "pertanyaan": "Karya seni rupa yang dibuat dengan tujuan memperindah suatu bangunan disebut...",
+         "pilihan": {
+            "A": "Seni lukis",
+            "B": "Seni ilustrasi",
+            "C": "Seni dekoratif",
+            "D": "Seni patung",
+            "E": "Seni pahat"
+         },
+         "jawaban": "c. Seni dekoratif"
+      },
+      {
+         "pertanyaan": "Berikut ini adalah jenis seni rupa berdasarkan fungsinya, kecuali...",
+         "pilihan": {
+            "A": "Seni rupa murni",
+            "B": "Seni rupa terapan",
+            "C": "Seni rupa modern",
+            "D": "Seni rupa tradisional",
+            "E": "Seni rupa digital"
+         },
+         "jawaban": "e. Seni rupa digital"
+      },
+      {
+         "pertanyaan": "Contoh seni rupa tiga dimensi yang memiliki fungsi pakai adalah.",
+         "pilihan": {
+            "A": "Lukisan",
+            "B": "Poster",
+            "C": "Kursi ukir",
+            "D": "Sketsa",
+            "E": "Fotografi"
+         },
+         "jawaban": "c. Kursi ukir"
+      },
+      {
+         "pertanyaan": "Berikut yang bukan merupakan unsur seni rupa adalah.",
+         "pilihan": {
+            "A": "Garis",
+            "B": "Tekstur",
+            "C": "Irama",
+            "D": "Nada",
+            "E": "Warna"
+         },
+         "jawaban": "d. Nada"
+      },
+      {
+         "pertanyaan": "Seni rupa yang berkembang dengan menggabungkan unsur seni rupa dengan teknologi digital disebut...",
+         "pilihan": {
+            "A": "Seni instalasi",
+            "B": "Seni digital",
+            "C": "Seni grafis",
+            "D": "Seni pahat",
+            "E": "Seni dekoratif"
+         },
+         "jawaban": "b. Seni digital"
+      },
+      {
+         "pertanyaan": "Salah satu contoh seni rupa terapan yang sering kita gunakan sehari-hari adalah...",
+         "pilihan": {
+            "A": "Patung",
+            "B": "Poster",
+            "C": "Kursi kayu",
+            "D": "Lukisan abstrak",
+            "E": "Sketsa wajah"
+         },
+         "jawaban": "c. Kursi kayu"
+      },
+      {
+         "pertanyaan": "Apa yang dimaksud dengan seni rupa terapan?",
+         "pilihan": {
+            "A": "Seni rupa yang dibuat hanya untuk dipajang",
+            "B": "Seni rupa yang memiliki nilai fungsi dan estetika",
+            "C": "Seni rupa yang hanya berfungsi sebagai ekspresi seniman",
+            "D": "Seni rupa yang dibuat tanpa memperhatikan unsur estetika",
+            "E": "Seni rupa yang hanya dapat dinikmati oleh kalangan tertentu"
+         },
+         "jawaban": "b. Seni rupa yang memiliki nilai fungsi dan estetika"
+      },
+      {
+         "pertanyaan": "Teknik mencetak dalam seni rupa yang menggunakan cetakan dari bahan lunak seperti kayu atau karet disebut teknik...",
+         "pilihan": {
+            "A": "Mozaik",
+            "B": "Plakat",
+            "C": "Cetak tinggi",
+            "D": "Linear",
+            "E": "Aquarel"
+         },
+         "jawaban": "c. Cetak tinggi"
+      },
+      {
+         "pertanyaan": "Dalam membuat karya seni rupa dua dimensi, unsur yang paling berpengaruh dalam menciptakan kesan ruang adalah...",
+         "pilihan": {
+            "A": "Warna",
+            "B": "Garis",
+            "C": "Perspektif",
+            "D": "Tekstur",
+            "E": "Volume"
+         },
+         "jawaban": "c. Perspektif"
+      },
+      {
+         "pertanyaan": "Salah satu teknik menggambar yang menggunakan arsir atau titik-titik untuk menciptakan kesan bayangan disebut..",
+         "pilihan": {
+            "A": "Pointilis",
+            "B": "Blok",
+            "C": "Dekoratif",
+            "D": "Siluet",
+            "E": "Plakat"
+         },
+         "jawaban": "a. Pointilis"
+      },
+      {
+         "pertanyaan": "Seni patung termasuk dalam seni rupa..",
+         "pilihan": {
+            "A": "Dua dimensi",
+            "B": "Tiga dimensi",
+            "C": "Multimedia",
+            "D": "Kontemporer",
+            "E": "Digital"
+         },
+         "jawaban": "b. Tiga dimensi"
+      },
+      {
+         "pertanyaan": "Karya seni rupa yang dibuat dengan menempelkan berbagai bahan seperti kertas, kain, atau kaca disebut teknik..",
+         "pilihan": {
+            "A": "Batik",
+            "B": "Mozaik",
+            "C": "Aquarel",
+            "D": "Cetak saring",
+            "E": "Fresko"
+         },
+         "jawaban": "b. Mozaik"
+      },
+      {
+         "pertanyaan": "Berikut ini adalah contoh karya seni rupa murni, kecuali...",
+         "pilihan": {
+            "A": "Lukisan",
+            "B": "Patung",
+            "C": "Kaligrafi",
+            "D": "Poster",
+            "E": "Relief"
+         },
+         "jawaban": "d. Poster"
+      },
+      {
+         "pertanyaan": "Teknik melukis dengan cat air yang menghasilkan warna transparan disebut teknik...",
+         "pilihan": {
+            "A": "Plakat",
+            "B": "Mozaik",
+            "C": "Aquarel",
+            "D": "Tempera",
+            "E": "Kolase"
+         },
+         "jawaban": "c. Aquarel"
+      },
+      {
+         "pertanyaan": "Apa yang menjadi perbedaan utama antara seni rupa murni dan seni rupa terapan?",
+         "pilihan": {
+            "A": "Seni rupa murni lebih mahal dibanding seni rupa terapan",
+            "B": "Seni rupa murni hanya digunakan untuk pameran, sedangkan seni rupa terapan memiliki fungsi praktis",
+            "C": "Seni rupa terapan lebih mudah dibuat dibanding seni rupa murni",
+            "D": "Seni rupa murni hanya dibuat oleh seniman profesional",
+            "E": "Seni rupa terapan lebih dihargai dalam dunia seni dibanding seni rupa murni"
+         },
+         "jawaban": "b. Seni rupa murni hanya digunakan untuk pameran, sedangkan seni rupa terapan memiliki fungsi praktis"
+      },
+      {
+         "pertanyaan": "Dalam teknik membentuk patung dengan cara memahat, alat yang sering digunakan adalah..",
+         "pilihan": {
+            "A": "Pisau cutter dan kuas",
+            "B": "Cetakan dan cetok",
+            "C": "Pahat dan palu",
+            "D": "Pensil dan penghapus",
+            "E": "Jangka dan busur"
+         },
+         "jawaban": "c. Pahat dan palu"
+      },
+      {
+         "pertanyaan": "Apa yang dimaksud dengan desain dalam kehidupan sehari-hari?",
+         "pilihan": {
+            "A": "Proses membuat gambar tanpa tujuan",
+            "B": "Upaya menciptakan sesuatu dengan perencanaan untuk fungsi dan estetika",
+            "C": "Kegiatan menggambar bebas tanpa aturan",
+            "D": "Hanya digunakan dalam seni dan arsitektur",
+            "E": "Proses membuat tulisan dekoratif"
+         },
+         "jawaban": "b. Upaya menciptakan sesuatu dengan perencanaan untuk fungsi dan estetika"
+      },
+      {
+         "pertanyaan": "Salah satu fungsi utama desain adalah..",
+         "pilihan": {
+            "A": "Membingungkan orang agar tertarik",
+            "B": "Membantu menciptakan solusi fungsional dan estetis",
+            "C": "Mengurangi efisiensi dalam kehidupan",
+            "D": "Membatasi kreativitas seseorang",
+            "E": "Hanya untuk kepentingan industri besar"
+         },
+         "jawaban": "b. Membantu menciptakan solusi fungsional dan estetis"
+      },
+      {
+         "pertanyaan": "Prinsip dasar desain yang mengatur keseimbangan visual dalam suatu karya adalah..",
+         "pilihan": {
+            "A": "Skala",
+            "B": "Proporsi",
+            "C": "Keselarasan",
+            "D": "Kontras",
+            "E": "Komposisi"
+         },
+         "jawaban": "e. Komposisi"
+      },
+      {
+         "pertanyaan": "Berikut ini yang bukan merupakan elemen dasar dalam desain adalah..",
+         "pilihan": {
+            "A": "Garis",
+            "B": "Warna",
+            "C": "Tekstur",
+            "D": "Rasa",
+            "E": "Bentuk"
+         },
+         "jawaban": "d. Rasa"
+      },
+      {
+         "pertanyaan": "Desain grafis sering digunakan dalam berbagai media komunikasi. Salah satu contoh penerapannya adalah..",
+         "pilihan": {
+            "A": "Poster dan iklan cetak",
+            "B": "Struktur bangunan",
+            "C": "Teknik bertani",
+            "D": "Perhitungan keuangan",
+            "E": "Pengolahan data statistik"
+         },
+         "jawaban": "a. Poster dan iklan cetak"
+      },
+      {
+         "pertanyaan": "Salah satu contoh desain yang berfungsi untuk memudahkan kehidupan sehari-hari adalah...",
+         "pilihan": {
+            "A": "Hiasan dinding tanpa tujuan tertentu",
+            "B": "Kursi ergonomis yang nyaman digunakan",
+            "C": "Patung sebagai elemen dekoratif",
+            "D": "Lukisan abstrak di galeri seni",
+            "E": "Gambar acak tanpa makna"
+         },
+         "jawaban": "b. Kursi ergonomis yang nyaman digunakan"
+      },
+      {
+         "pertanyaan": "Dalam desain, kontras berfungsi untuk..",
+         "pilihan": {
+            "A": "Menciptakan kesan monoton dalam suatu karya",
+            "B": "Menambah ketidakseimbangan dalam tampilan visual",
+            "C": "Memperjelas perbedaan dan menarik perhatian",
+            "D": "Menghilangkan unsur penting dari desain",
+            "E": "Mengurangi daya tarik sebuah desain"
+         },
+         "jawaban": "c. Memperjelas perbedaan dan menarik perhatian"
+      },
+      {
+         "pertanyaan": "Desain interior sangat berperan dalam kehidupan sehari-hari, terutama dalam hal..",
+         "pilihan": {
+            "A": "Membuat rumah menjadi lebih nyaman dan fungsional",
+            "B": "Mengurangi biaya pembangunan rumah",
+            "C": "Mempercepat proses renovasi bangunan",
+            "D": "Mengabaikan kebutuhan penghuni rumah",
+            "E": "Membuat rumah tampak lebih sempit"
+         },
+         "jawaban": "a. Membuat rumah menjadi lebih nyaman dan fungsional"
+      },
+      {
+         "pertanyaan": "Apa yang dimaksud dengan ergonomi dalam desain?",
+         "pilihan": {
+            "A": "Prinsip yang memastikan desain sesuai dengan kenyamanan pengguna",
+            "B": "Teknik menggambar bentuk organik",
+            "C": "Konsep estetika tanpa mempertimbangkan fungsi",
+            "D": "Cara membuat desain yang terlihat rumit",
+            "E": "Hanya berhubungan dengan desain industri"
+         },
+         "jawaban": "a. Prinsip yang memastikan desain sesuai dengan kenyamanan pengguna"
+      },
+      {
+         "pertanyaan": "Dalam dunia teknologi, desain antarmuka pengguna (UI) sangat penting karena...",
+         "pilihan": {
+            "A": "Memudahkan pengguna dalam berinteraksi dengan perangkat",
+            "B": "Hanya berfokus pada tampilan visual",
+            "C": "Tidak berpengaruh terhadap pengalaman pengguna",
+            "D": "Mengurangi kebutuhan akan inovasi teknologi",
+            "E": "Membuat aplikasi lebih sulit digunakan"
+         },
+         "jawaban": "a. Memudahkan pengguna dalam berinteraksi dengan perangkat"
+      },
+      {
+         "pertanyaan": "Apa yang dimaksud dengan desain dalam konteks seni dan kreativitas?",
+         "pilihan": {
+            "A": "Proses menyalin gambar dari internet",
+            "B": "Aktivitas menciptakan suatu karya dengan perencanaan dan konsep tertentu",
+            "C": "Menggambar tanpa aturan yang jelas",
+            "D": "Memodifikasi gambar orang lain tanpa izin",
+            "E": "Hanya membuat sketsa tanpa proses berpikir"
+         },
+         "jawaban": "b. Aktivitas menciptakan suatu karya dengan perencanaan dan konsep tertentu"
+      },
+      {
+         "pertanyaan": "Prinsip desain yang menekankan keselarasan antara elemen-elemen dalam suatu karya disebut",
+         "pilihan": {
+            "A": "Proporsi",
+            "B": "Keseimbangan",
+            "C": "Kontras",
+            "D": "Irama",
+            "E": "Kesatuan"
+         },
+         "jawaban": "e. Kesatuan"
+      },
+      {
+         "pertanyaan": "Dalam tahap penciptaan desain, langkah awal yang harus dilakukan adalah \u2026",
+         "pilihan": {
+            "A": "Mewarnai desain yang telah dibuat",
+            "B": "Menganalisis kebutuhan dan tujuan desain",
+            "C": "Menyebarkan desain ke media sosial",
+            "D": "Menambahkan efek visual secara acak",
+            "E": "Mencetak hasil desain sebelum dievaluasi"
+         },
+         "jawaban": "b. Menganalisis kebutuhan dan tujuan desain"
+      },
+      {
+         "pertanyaan": "Unsur desain yang berkaitan dengan struktur atau susunan suatu objek dalam desain adalah \u2026",
+         "pilihan": {
+            "A": "Warna",
+            "B": "Garis",
+            "C": "Bentuk",
+            "D": "Tekstur",
+            "E": "Ruang"
+         },
+         "jawaban": "c. Bentuk"
+      },
+      {
+         "pertanyaan": "Prinsip kontras dalam desain berfungsi untuk \u2026",
+         "pilihan": {
+            "A": "Membuat semua elemen tampak serupa",
+            "B": "Menonjolkan perbedaan antara elemen dalam desain",
+            "C": "Menghilangkan detail yang tidak diperlukan",
+            "D": "Menghindari perpaduan warna yang terlalu mencolok",
+            "E": "Mengurangi ketajaman warna dalam desain"
+         },
+         "jawaban": "b. Menonjolkan perbedaan antara elemen dalam desain"
+      },
+      {
+         "pertanyaan": "Berikut ini adalah software yang sering digunakan untuk membuat desain grafis, kecuali \u2026",
+         "pilihan": {
+            "A": "Adobe Photoshop",
+            "B": "CorelDRAW",
+            "C": "AutoCAD",
+            "D": "Microsoft Excel",
+            "E": "Canva"
+         },
+         "jawaban": "d. Microsoft Excel"
+      },
+      {
+         "pertanyaan": "Dalam pembuatan logo, hal utama yang harus diperhatikan adalah \u2026",
+         "pilihan": {
+            "A": "Menggunakan sebanyak mungkin warna agar menarik",
+            "B": "Menghindari penggunaan simbol atau ikon",
+            "C": "Sederhana, mudah dikenali, dan memiliki makna",
+            "D": "Menggunakan huruf yang sulit dibaca agar unik",
+            "E": "Mengadopsi desain dari logo lain yang sudah terkenal"
+         },
+         "jawaban": "c. Sederhana, mudah dikenali, dan memiliki makna"
+      },
+      {
+         "pertanyaan": "Teknik dalam penciptaan desain yang menggunakan kombinasi gambar, teks, dan efek visual disebut \u2026",
+         "pilihan": {
+            "A": "Ilustrasi",
+            "B": "Fotografi",
+            "C": "Desain grafis",
+            "D": "Patung",
+            "E": "Kaligrafi"
+         },
+         "jawaban": "c. Desain grafis"
+      },
+      {
+         "pertanyaan": "Dalam pembuatan desain produk, faktor yang harus diperhatikan agar desain berhasil adalah \u2026",
+         "pilihan": {
+            "A": "Keindahan saja tanpa mempertimbangkan fungsi",
+            "B": "Faktor ergonomi, estetika, dan fungsionalitas",
+            "C": "Mengutamakan aspek visual tanpa memperhatikan pengguna",
+            "D": "Hanya mengikuti tren desain yang sedang viral",
+            "E": "Meniru desain lain yang sudah ada"
+         },
+         "jawaban": "b. Faktor ergonomi, estetika, dan fungsionalitas"
+      },
+      {
+         "pertanyaan": "Apa tujuan utama dari desain komunikasi visual?",
+         "pilihan": {
+            "A": "Menghasilkan gambar yang memiliki nilai seni tinggi",
+            "B": "Mengkomunikasikan pesan secara efektif melalui elemen visual",
+            "C": "Membuat gambar yang sulit dipahami agar terlihat eksklusif",
+            "D": "Mengutamakan aspek teknis tanpa memikirkan pesan yang disampaikan",
+            "E": "Menghasilkan karya desain yang tidak memiliki makna"
+         },
+         "jawaban": "b. Mengkomunikasikan pesan secara efektif melalui elemen visual"
+      }
+   ]
+}
